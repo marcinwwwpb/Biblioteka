@@ -1,0 +1,225 @@
+
+{
+  "ksiazki": [
+    {
+      "id": 1,
+      "tytul": "Fourth Wing. Czwarte skrzydło",
+      "isbn": "9788383570969",
+      "gatunek": "Fantasy",
+      "liczbaStron": 528,
+      "dataWydania": "2023-11-29",
+      "autor": {
+        "imie": "Rebecca",
+        "nazwisko": "Yarros"
+      },
+      "tagi": ["smoki", "magia", "romantasy"],
+      "egzemplarze": [
+        {
+          "id": 11,
+          "sygnatura": "FAN-001",
+          "dostepny": true
+        },
+        {
+          "id": 12,
+          "sygnatura": "FAN-002",
+          "dostepny": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tytul": "Iron Flame. Żelazny płomień",
+      "isbn": "9788383573052",
+      "gatunek": "Fantasy",
+      "liczbaStron": 704,
+      "dataWydania": "2024-03-13",
+      "autor": {
+        "imie": "Rebecca",
+        "nazwisko": "Yarros"
+      },
+      "tagi": ["smoki", "magia", "romantasy"],
+      "egzemplarze": [
+        {
+          "id": 21,
+          "sygnatura": "FAN-003",
+          "dostepny": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tytul": "Chłopki. Opowieść o naszych babkach",
+      "isbn": "9788367674317",
+      "gatunek": "Reportaż",
+      "liczbaStron": 491,
+      "dataWydania": "2023-05-17",
+      "autor": {
+        "imie": "Joanna",
+        "nazwisko": "Kuciel-Frydryszak"
+      },
+      "tagi": ["historia", "Polska", "kobiety"],
+      "egzemplarze": [
+        {
+          "id": 31,
+          "sygnatura": "REP-001",
+          "dostepny": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tytul": "Biblioteka o północy",
+      "isbn": "9788382027013",
+      "gatunek": "Obyczajowa",
+      "liczbaStron": 398,
+      "dataWydania": "2022-07-18",
+      "autor": {
+        "imie": "Matt",
+        "nazwisko": "Haig"
+      },
+      "tagi": ["życie", "wybory", "fantastyka"],
+      "egzemplarze": [
+        {
+          "id": 41,
+          "sygnatura": "OBY-001",
+          "dostepny": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tytul": "Gdzie śpiewają raki",
+      "isbn": "9788382896541",
+      "gatunek": "Obyczajowa",
+      "liczbaStron": 416,
+      "dataWydania": "2022-08-09",
+      "autor": {
+        "imie": "Delia",
+        "nazwisko": "Owens"
+      },
+      "tagi": ["natura", "tajemnica", "miłość"],
+      "egzemplarze": [
+        {
+          "id": 51,
+          "sygnatura": "OBY-002",
+          "dostepny": true
+        },
+        {
+          "id": 52,
+          "sygnatura": "OBY-003",
+          "dostepny": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tytul": "Pacjentka",
+      "isbn": "9788383876252",
+      "gatunek": "Thriller",
+      "liczbaStron": 352,
+      "dataWydania": "2025-03-12",
+      "autor": {
+        "imie": "Alex",
+        "nazwisko": "Michaelides"
+      },
+      "tagi": ["psychologia", "tajemnica", "zbrodnia"],
+      "egzemplarze": [
+        {
+          "id": 61,
+          "sygnatura": "THR-001",
+          "dostepny": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tytul": "Siedmiu mężów Evelyn Hugo",
+      "isbn": "9788367891639",
+      "gatunek": "Obyczajowa",
+      "liczbaStron": 536,
+      "dataWydania": "2023-10-12",
+      "autor": {
+        "imie": "Taylor",
+        "nazwisko": "Jenkins Reid"
+      },
+      "tagi": ["Hollywood", "miłość", "dramat"],
+      "egzemplarze": [
+        {
+          "id": 71,
+          "sygnatura": "OBY-004",
+          "dostepny": true
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tytul": "Niewidzialne życie Addie LaRue",
+      "isbn": "9788367054980",
+      "gatunek": "Fantasy",
+      "liczbaStron": 608,
+      "dataWydania": "2022-03-23",
+      "autor": {
+        "imie": "Victoria",
+        "nazwisko": "Schwab"
+      },
+      "tagi": ["nieśmiertelność", "magia", "miłość"],
+      "egzemplarze": [
+        {
+          "id": 81,
+          "sygnatura": "FAN-004",
+          "dostepny": true
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tytul": "Dwór cierni i róż",
+      "isbn": "9788383196053",
+      "gatunek": "Fantasy",
+      "liczbaStron": 528,
+      "dataWydania": "2024-04-24",
+      "autor": {
+        "imie": "Sarah J.",
+        "nazwisko": "Maas"
+      },
+      "tagi": ["magia", "fae", "romantasy"],
+      "egzemplarze": [
+        {
+          "id": 91,
+          "sygnatura": "FAN-005",
+          "dostepny": true
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tytul": "It Ends with Us",
+      "isbn": "9788381354158",
+      "gatunek": "Romans",
+      "liczbaStron": 368,
+      "dataWydania": "2024-08-05",
+      "autor": {
+        "imie": "Colleen",
+        "nazwisko": "Hoover"
+      },
+      "tagi": ["miłość", "dramat", "relacje"],
+      "egzemplarze": [
+        {
+          "id": 101,
+          "sygnatura": "ROM-001",
+          "dostepny": true
+        }
+      ]
+    }
+  ],
+  "wypozyczenia": [
+    {
+      "id": 1,
+      "ksiazkaId": 1,
+      "egzemplarzId": 12,
+      "czytelnik": "Anna Kowalska",
+      "dataWypozyczenia": "2026-11-10",
+      "dataZwrotu": null
+    }
+  ]
+}
